@@ -4,4 +4,4 @@
 
 [Live demo](https://fedeatanasoff.github.io/marcadores/)
 
-# ![preview](https://github.com/fedeatanasoff/marcadores/blob/master/marcadores.png)
+![preview](https://github.com/fedeatanasoff/marcadores/blob/master/marcadores.png)
